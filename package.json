@@ -21,10 +21,12 @@
 	},
 	"homepage": "https://github.com/LambdaSchool/Server-Testing#readme",
 	"devDependencies": {
-		"jest": "^23.6.0",
-		"supertest": "^3.3.0"
+		"jest": "^24.7.1",
+		"supertest": "^4.0.2"
 	},
 	"dependencies": {
-		"express": "^4.16.4"
+		"express": "^4.16.4",
+		"knex": "^0.16.4",
+		"sqlite3": "^4.0.6"
 	}
 }
